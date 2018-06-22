@@ -1,3 +1,3 @@
 # proj1ROBO
-Robotic framework proj
+Robotic framework project
 My project explanation is this
