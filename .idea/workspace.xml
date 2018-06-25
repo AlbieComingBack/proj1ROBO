@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f053144a-1998-4101-a878-3662bdeb2809" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Tests/ROBO.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/proj1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/proj1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/Readme" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/Readme" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,14 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ROBO.robot" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ROBO.robot" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/ROBO.robot">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state relative-caret-position="272">
+              <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="e#0#92#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/Readme">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -56,12 +62,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Tests/Readme" />
         <option value="$PROJECT_DIR$/Resources/Readme" />
         <option value="$PROJECT_DIR$/Results/Readme" />
         <option value="$PROJECT_DIR$/Libraries/Readme" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Tests/ROBO.robot" />
+        <option value="$PROJECT_DIR$/Tests/Readme" />
       </list>
     </option>
   </component>
@@ -157,7 +163,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-1089" width="1554" height="851" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19010417" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -270,13 +275,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/Readme">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="73" selection-start-column="73" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Results/report.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -302,11 +300,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/ROBO.robot">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
             <element signature="e#0#92#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/Readme">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

@@ -11,7 +11,7 @@ User must sign in
         Open Browser  https://www.google.com/  ie
         sleep  3s
         click element  lst-ib
-        input text  id=lst-ib  dog
+        input text  id=lst-ib  robotics
         click element  gsr
         sleep  3s
         close browser

@@ -1,1 +1,3 @@
 This is where something like processes in Blue Prism or scripts are store
+
+to run: robot -d results tests/ROBO.robot
