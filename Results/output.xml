@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.6.5 on win32)" generated="20180625 20:34:02.172">
+<suite id="s1" name="ROBO" source="C:\Users\abag520\PycharmProjects\proj1ROBO\tests\ROBO.robot">
+<test id="s1-t1" name="User must sign in">
+<kw name="Open Browser" library="SeleniumLibrary">
+<doc>Opens a new browser instance to the given ``url``.</doc>
+<arguments>
+<arg>https://www.google.com/</arg>
+<arg>ie</arg>
+</arguments>
+<msg timestamp="20180625 20:34:02.375" level="INFO">Opening browser 'ie' to base url 'https://www.google.com/'.</msg>
+<status status="PASS" starttime="20180625 20:34:02.375" endtime="20180625 20:34:05.544"></status>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>3s</arg>
+</arguments>
+<msg timestamp="20180625 20:34:08.549" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20180625 20:34:05.544" endtime="20180625 20:34:08.549"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>lst-ib</arg>
+</arguments>
+<msg timestamp="20180625 20:34:08.549" level="INFO">Clicking element 'lst-ib'.</msg>
+<status status="PASS" starttime="20180625 20:34:08.549" endtime="20180625 20:34:08.987"></status>
+</kw>
+<kw name="Input Text" library="SeleniumLibrary">
+<doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+<arguments>
+<arg>id=lst-ib</arg>
+<arg>dog</arg>
+</arguments>
+<msg timestamp="20180625 20:34:08.987" level="INFO">Typing text 'dog' into text field 'id=lst-ib'.</msg>
+<status status="PASS" starttime="20180625 20:34:08.987" endtime="20180625 20:34:09.551"></status>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<doc>Click element identified by ``locator``.</doc>
+<arguments>
+<arg>gsr</arg>
+</arguments>
+<msg timestamp="20180625 20:34:09.551" level="INFO">Clicking element 'gsr'.</msg>
+<status status="PASS" starttime="20180625 20:34:09.551" endtime="20180625 20:34:12.001"></status>
+</kw>
+<kw name="Sleep" library="BuiltIn">
+<doc>Pauses the test executed for the given time.</doc>
+<arguments>
+<arg>3s</arg>
+</arguments>
+<msg timestamp="20180625 20:34:15.016" level="INFO">Slept 3 seconds</msg>
+<status status="PASS" starttime="20180625 20:34:12.001" endtime="20180625 20:34:15.016"></status>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20180625 20:34:15.016" endtime="20180625 20:34:18.038"></status>
+</kw>
+<doc>This is basic info about test</doc>
+<tags>
+<tag>Smoke</tag>
+</tags>
+<status status="PASS" starttime="20180625 20:34:02.375" endtime="20180625 20:34:18.038" critical="yes"></status>
+</test>
+<doc>Here is an explanation of the suite</doc>
+<status status="PASS" starttime="20180625 20:34:02.187" endtime="20180625 20:34:18.038"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+<stat pass="1" fail="0">Smoke</stat>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="ROBO">ROBO</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
